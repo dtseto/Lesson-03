@@ -41,6 +41,8 @@ contract HelloWorld {
 * State Variables
 * Constants
 * Data locations (again)
+- storage on chain expensive vs memory when run;
+- in a stack, stack not register based
 * Arrays
 * Mappings
 ### References
