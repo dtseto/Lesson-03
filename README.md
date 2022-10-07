@@ -3,7 +3,9 @@
 * Replacing memory with calldata when stack is enough
 * Definitions
   * Visibility
+  #public private internel external
   * State mutability
+  #default not payable, other is pure view payable
   * Modifiers
   * Virtual
   * Override
